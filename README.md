@@ -1,6 +1,9 @@
+# 🏄‍♂️ Nîkhił
+
 ![IMG_7502](https://github.com/user-attachments/assets/46ffc417-1989-4277-95ad-6ce2a4e50b3c)
-# 💫 About Me:
-🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning "Go"<br>💬  Ask me about anything related to data.<br>👨‍💻  Read more about my projects at nikhil.me<br>⚡  Fun fact: Loading........!
+
+<!-- # 💫 About Me:
+🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning "Go"<br>💬  Ask me about anything related to data.<br>👨‍💻  Read more about my projects at nikhil.me<br>⚡  Fun fact: Loading........!-->
 
 
 # 💻 Tech Stack:
