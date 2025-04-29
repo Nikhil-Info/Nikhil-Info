@@ -1,4 +1,4 @@
-# 🏄‍♂️ Nîkhił
+# Nîkhił 🏄‍♂️
 
 ![IMG_7502](https://github.com/user-attachments/assets/46ffc417-1989-4277-95ad-6ce2a4e50b3c)
 
