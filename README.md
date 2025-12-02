@@ -11,6 +11,7 @@
 
 # Sleepless nights
 [![](https://wakatime.com/badge/user/8747fe60-b1f6-4787-b726-bfea4896868a.svg?style=for-the-badge)](https://wakatime.com/@nikh9l)
+[![](https://wakatime.com/badge/user/6a985fd1-ff4d-4904-84ca-a65ef67f86f6.svg?style=for-the-badge)](https://wakatime.com/@6a985fd1-ff4d-4904-84ca-a65ef67f86f6)
 
 
 # 📊 GitHub Stats:
