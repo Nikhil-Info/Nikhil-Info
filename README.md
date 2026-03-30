@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://wakatime.com/@6a985fd1-ff4d-4904-84ca-a65ef67f86f6">
-    <img src="https://wakatime.com/badge/user/6a985fd1-ff4d-4904-84ca-a65ef67f86f6.svg?style=flat-square" />
+    <img src="https://wakatime.com/badge/user/6a985fd1-ff4d-4904-84ca-a65ef67f86f6.svg?style=plastic" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Nikhil-Info&label=Profile+Views&color=orange&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nikhil-Info&label=Profile+Views&color=orange&style=plastic" alt="Profile Views" />
 </div>
