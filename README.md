@@ -14,3 +14,7 @@
 [![](https://visitcount.itsvg.in/api?id=Nikhil-Info&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nikhil-Info&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+</div>
