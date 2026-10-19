@@ -1,6 +1,8 @@
 # Nîkhił 🏄‍♂️
 
-![IMG_7502](https://github.com/user-attachments/assets/46ffc417-1989-4277-95ad-6ce2a4e50b3c)
+<div align="center">
+  <img src="./cdg2.gif" width="100%" alt="banner" />
+</div>
 
 
 <!-- # 💫 About Me:
