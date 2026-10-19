@@ -5,8 +5,8 @@
 </div>
 
 
-<!-- # 💫 About Me:
-🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning "Go"<br>💬  Ask me about anything related to data.<br>👨‍💻  Read more about my projects at nikhil.me<br>⚡  Fun fact: Loading........!-->
+# 💫 About:
+🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning "Go"<br>💬  Ask me about anything related to data.<br>👨‍💻  Read more about my projects at nikhil.me<br>⚡  Fun fact: Loading........
 
 <div align="center">
   <a href="https://wakatime.com/@6a985fd1-ff4d-4904-84ca-a65ef67f86f6">
