@@ -4,9 +4,14 @@
   <img src="./cdg2.gif" width="100%" alt="banner" />
 </div>
 
-
-# 💫 About:
-🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning "Go"<br>💬  Ask me about anything related to data.<br>👨‍💻  Read more about my projects at nikhil.me<br>⚡  Fun fact: Loading........
+<h2 align="center"><u>💫 About Me</u></h2>
+<div align="center">
+🔭 Building things that solve real-world problems 🚀 <br>
+🌱 Exploring new technologies and sharpening my skills <br>
+💬 Ask me about React, JavaScript, and software development <br>
+👨‍💻 Check out my projects at .......... <br>
+⚡ Fun fact: My best ideas usually start with “What if...?” 💡 <br>
+</div>
 
 <div align="center">
   <a href="https://wakatime.com/@6a985fd1-ff4d-4904-84ca-a65ef67f86f6">
